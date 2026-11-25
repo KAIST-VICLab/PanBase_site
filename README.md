@@ -50,7 +50,6 @@ the page are set at the top of `static/css/style.css`.
 
 ## arXiv link
 
-The paper was submitted to arXiv and its identifier is not known yet. Until it is, the arXiv button, the footer's arXiv
-link and the BibTeX entry carry a placeholder identifier; such a link is shown as pending (the arXiv button carries a
-"soon" badge) and does not navigate. Setting the identifier in `index.html` is enough; no CSS or JavaScript file needs
-editing. The Paper button and the navigation bar's Paper link open the hosted PDF, `static/paper/PanBase.pdf`.
+The paper is on arXiv as [arXiv:2611.32002](https://arxiv.org/abs/2611.32002). The arXiv button, the footer's arXiv link
+and the BibTeX entry point to it. The Paper button and the navigation bar's Paper link open the hosted PDF,
+`static/paper/PanBase.pdf`.
